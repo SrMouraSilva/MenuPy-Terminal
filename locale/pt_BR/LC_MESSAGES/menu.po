@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gerador-menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-29 12:32-0300\n"
+"PO-Revision-Date: 2012-04-29 12:42-0300\n"
+"Last-Translator: Paulo Mateus <mateus.moura@hotmail.com>\n"
+"Language-Team: Paulo Mateus <mateus.moura@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: O:\\Programação\\Python\\menu\\menu\\teste\n"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:101
+msgid "Title"
+msgstr "Título"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:141
+msgid "Menu: "
+msgstr "Menu: "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:142
+msgid ""
+" Description: \n"
+"\n"
+msgstr ""
+" Descrição: \n"
+"\n"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:145
+#: O:\Programação\Python\menu\menu\teste/_menu.py:147
+msgid " Previous Menu:  "
+msgstr " Menu anterior:  "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:150
+msgid " Total items: "
+msgstr " Total de itens: "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:151
+msgid "  Menu items: "
+msgstr "  Itens menu: "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:152
+msgid "  Items items: "
+msgstr "  Itens itens: "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:192
+msgid ""
+"This menu doesn't have options! \n"
+"Returning to the previous menu"
+msgstr ""
+"Este menu não possui opções! \n"
+"Voltando ao menu anterior"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:198
+msgid "Select a option: "
+msgstr "Escolha uma opção: "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:287
+msgid "You are in:"
+msgstr "Você está em:"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:342
+#: O:\Programação\Python\menu\menu\teste/_menu.py:344
+msgid "Select a valid option: "
+msgstr "Selecione uma opção válida: "
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:426
+msgid "Given path isn't valid"
+msgstr "Caminho dado não é um caminho válido"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:535
+msgid "You can not add submenus on an item"
+msgstr "Não se pode adicionar submenus em um item"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:574
+msgid "You can not add items to an item"
+msgstr "Não se pode adicionar itens em um item"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:620
+msgid ""
+"\n"
+"Press Enter to complete this procedure"
+msgstr ""
+"\n"
+"Pressione Enter para finalizar este procedimento"
+
+#: O:\Programação\Python\menu\menu\teste/_menu.py:628
+msgid "Main Menu"
+msgstr "Menu Principal"
+
