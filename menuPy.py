@@ -369,7 +369,7 @@ if 1==1:
 
     # Para salvar/carregar em um XML
     #  Salvar
-    menu.xml.save()
+    #menu.xml.save()
     #  Carregar
     #menu = Menu()
     #menu.load("menuExemplo.xml")
