@@ -363,7 +363,7 @@ if 1==1:
     menu.addItem([3], "Data do início do desenvolvimento", imprimir, '05/07/2011')
     menu.addItem([3], "Versão", imprimir, 'Versão '+ menu.config["version"])
 
-    #menu.run()
+    menu.run()
     #'''
 
 
