@@ -20,7 +20,7 @@ Características
 
 - Multiplataforma - Windows e Sistemas Baseados em Unix
 - Fácil utilização
-- Exportável para XML
+- Exportável para XML (implementando)
 - Visual customizável
 - Tratamento de erros (implementando)
 - Internacionalização do código
